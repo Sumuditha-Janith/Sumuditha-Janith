@@ -82,15 +82,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumuditha-Janith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumuditha-Janith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true" height="170" alt="languages graph" />
-</div>
-
----
-
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
